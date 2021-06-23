@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Backend do Desafio de Frontend",
+  "author": "Nilo Heathtech <tech@nilo.co>",
+  "license": "MIT",
+  "private": true
+}
